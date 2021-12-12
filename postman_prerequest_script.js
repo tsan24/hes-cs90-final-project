@@ -1,6 +1,6 @@
-var months = 1
-var days = 1
-var hours = 0;
+var months = 12
+var days = 30
+var hours = 24;
 
 var arrSolarArrayIds = [
     "fl-0001", //10% speed
