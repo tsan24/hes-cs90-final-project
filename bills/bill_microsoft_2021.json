@@ -1,0 +1,160 @@
+{
+  "clientName": "Microsoft, Inc.",
+  "details": [
+    {
+      "total": "276.12",
+      "period": "January 2021",
+      "watts": "5635",
+      "rate": "0.049",
+      "speed": "100"
+    },
+    {
+      "total": "17.55",
+      "period": "January 2021",
+      "watts": "1170",
+      "rate": "0.015",
+      "speed": "50"
+    },
+    {
+      "total": "1.7",
+      "period": "February 2021",
+      "watts": "213",
+      "rate": "0.008",
+      "speed": "10"
+    },
+    {
+      "total": "215.26",
+      "period": "February 2021",
+      "watts": "4393",
+      "rate": "0.049",
+      "speed": "100"
+    },
+    {
+      "total": "2.42",
+      "period": "March 2021",
+      "watts": "302",
+      "rate": "0.008",
+      "speed": "10"
+    },
+    {
+      "total": "195.22",
+      "period": "March 2021",
+      "watts": "3984",
+      "rate": "0.049",
+      "speed": "100"
+    },
+    {
+      "total": "217.46",
+      "period": "April 2021",
+      "watts": "4438",
+      "rate": "0.049",
+      "speed": "100"
+    },
+    {
+      "total": "2.88",
+      "period": "April 2021",
+      "watts": "360",
+      "rate": "0.008",
+      "speed": "10"
+    },
+    {
+      "total": "251.91",
+      "period": "May 2021",
+      "watts": "5141",
+      "rate": "0.049",
+      "speed": "100"
+    },
+    {
+      "total": "252.2",
+      "period": "June 2021",
+      "watts": "5147",
+      "rate": "0.049",
+      "speed": "100"
+    },
+    {
+      "total": "145.78",
+      "period": "July 2021",
+      "watts": "2975",
+      "rate": "0.049",
+      "speed": "100"
+    },
+    {
+      "total": "6.1",
+      "period": "August 2021",
+      "watts": "762",
+      "rate": "0.008",
+      "speed": "10"
+    },
+    {
+      "total": "221.14",
+      "period": "August 2021",
+      "watts": "4513",
+      "rate": "0.049",
+      "speed": "100"
+    },
+    {
+      "total": "61.69",
+      "period": "September 2021",
+      "watts": "1259",
+      "rate": "0.049",
+      "speed": "100"
+    },
+    {
+      "total": "6.2",
+      "period": "September 2021",
+      "watts": "775",
+      "rate": "0.008",
+      "speed": "10"
+    },
+    {
+      "total": "6.25",
+      "period": "September 2021",
+      "watts": "417",
+      "rate": "0.015",
+      "speed": "50"
+    },
+    {
+      "total": "127.99",
+      "period": "October 2021",
+      "watts": "2612",
+      "rate": "0.049",
+      "speed": "100"
+    },
+    {
+      "total": "135.14",
+      "period": "November 2021",
+      "watts": "2758",
+      "rate": "0.049",
+      "speed": "100"
+    },
+    {
+      "total": "3.46",
+      "period": "November 2021",
+      "watts": "231",
+      "rate": "0.015",
+      "speed": "50"
+    },
+    {
+      "total": "5.62",
+      "period": "November 2021",
+      "watts": "702",
+      "rate": "0.008",
+      "speed": "10"
+    },
+    {
+      "total": "161.99",
+      "period": "December 2021",
+      "watts": "3306",
+      "rate": "0.049",
+      "speed": "100"
+    },
+    {
+      "total": "38.26",
+      "period": "December 2021",
+      "watts": "4783",
+      "rate": "0.008",
+      "speed": "10"
+    }
+  ],
+  "total": 2352.34
+}
